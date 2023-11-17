@@ -1,0 +1,26 @@
+body {
+    background-color: yellow;
+}
+
+#feedback-section {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+#feedback-form label {
+    display: block;
+    margin-top: 10px;
+}
+
+#feedback-form input, #feedback-form textarea, #feedback-form button {
+    width: 100%;
+    margin-top: 5px;
+}
+
+#feedback-response {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightgreen;
+    display: none;
+}
